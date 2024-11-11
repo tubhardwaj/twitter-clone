@@ -1,0 +1,24 @@
+{
+  "name": "twitter-clone",
+  "version": "1.0.0",
+  "description": "Twitter clone ",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon src/server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tubhardwaj/twitter-clone.git"
+  },
+  "author": "Tushar Bhardwaj",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tubhardwaj/twitter-clone/issues"
+  },
+  "homepage": "https://github.com/tubhardwaj/twitter-clone#readme",
+  "dependencies": {
+    "express": "^4.21.1",
+    "nodemon": "^3.1.7"
+  }
+}
